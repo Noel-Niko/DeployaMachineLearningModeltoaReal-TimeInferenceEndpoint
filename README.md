@@ -17,5 +17,5 @@ while time.time() < end_time:
                                                  Body=payload,
                                                  ContentType="text/csv"
                                                 )
-
-                                                ![image](https://github.com/Noel-Niko/DeployaMachineLearningModeltoaReal-TimeInferenceEndpoint/assets/83922762/6b563959-2163-4d7d-a7e3-96d7c83d7198)
+                                                
+![image](https://github.com/Noel-Niko/DeployaMachineLearningModeltoaReal-TimeInferenceEndpoint/assets/83922762/43882efd-7a72-417b-819a-64bbec7a4481)
